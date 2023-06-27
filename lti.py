@@ -4,7 +4,6 @@ import os.path
 import urllib.parse
 import openpyxl
 
-# TARGET_DIRECTORY = ""
 XL_FILE = 'LTIs Data File Combined - Draft List for Submission.xlsx'
 TARGET_DIRECTORY = r'D:\LTI-Related'
 
