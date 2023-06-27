@@ -4,8 +4,8 @@ import os.path
 import urllib.parse
 import openpyxl
 
-TARGET_DIRECTORY = r'C:\Users\akiva.buckman\IBI Group\Ben Wittenberg - Documents for Lawyers\MOMs'
-XL_FILE = 'MOMs Data File Combined - Draft List for Submission.xlsx'
+TARGET_DIRECTORY = r'confidential'
+XL_FILE = 'confidential'
 
 
 def create_mom_objects(row):
